@@ -112,19 +112,5 @@ float: right;
 
 
 
-@media screen and (max-width: 1460px){
-    footer2 {
- position: absolute;
-    color: white;
-  padding: 1rem;
-  background-color: #211715;
-  text-align: center;
-        bottom: 0;
-
-    
-   
-
-}
-}
 
 
