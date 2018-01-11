@@ -43,88 +43,70 @@ nav {
 }
 
 
-.card-body{
+.card-body {
     background-color: #211715;
 }
 
 footer1 {
- position: absolute;
+    position: absolute;
     color: white;
-  padding: 1rem;
-  background-color: #211715;
-  text-align: center;
-   bottom: 0;
+    padding: 1rem;
+    background-color: #211715;
+    text-align: center;
+    bottom: 0;
 }
 
 
 
 footer2 {
- position: absolute;
+    position: absolute;
     color: white;
-  padding: 1rem;
-  background-color: #211715;
-  text-align: center;
-    
-   
+    padding: 1rem;
+    background-color: #211715;
+    text-align: center;
 
 }
 
 footer3 {
- position: absolute;
+    position: absolute;
     color: white;
-  padding: 1rem;
-  background-color: #211715;
-  text-align: center;
- 
-   
-}
-
-.fa{
-    color: white;
-float: right;
-    margin:1rem;
+    padding: 1rem;
+    background-color: #211715;
+    text-align: center;
     
 }
-.fa-facebook:hover{
+
+.fa {
+    color: white;
+    float: right;
+    margin: 1rem;
+
+}
+
+.fa-facebook:hover {
     color: dodgerblue;
-float: right;
-    margin:1rem;
-    
+    float: right;
+    margin: 1rem;
+
 }
-.fa-twitter:hover{
+
+.fa-twitter:hover {
     color: skyblue;
-float: right;
-    margin:1rem;
-    
+    float: right;
+    margin: 1rem;
+
 }
-.fa-instagram:hover{
+
+.fa-instagram:hover {
     color: rebeccapurple;
-float: right;
-    margin:1rem;
-    
+    float: right;
+    margin: 1rem;
+
 }
-.fa-snapchat:hover{
+
+.fa-snapchat:hover {
     color: yellow;
-float: right;
-    margin:1rem;
-    
-}
-
-
-
-@media screen and (max-width: 1460px){
-    footer2 {
- position: absolute;
-    color: white;
-  padding: 1rem;
-  background-color: #211715;
-  text-align: center;
-        bottom: 0;
-
-    
-   
+    float: right;
+    margin: 1rem;
 
 }
-}
-
-
